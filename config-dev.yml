@@ -1,4 +1,4 @@
 config:
-  info: "master branch,springcloud-config/config-dev"
+  info: "master branch,springcloud-config/config-dev1"
 server:
   port:3355
